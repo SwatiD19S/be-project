@@ -1,0 +1,28 @@
+#content{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	line-height: 1.5;
+	color: #ffffff;
+}
+
+#grid{
+	height: 100vh;
+	padding-top: 30vh;
+	background-color: #ffffff;
+	border: thick inset green;
+	background-image: url("texture/img1.jpg");
+	background-size: cover;
+	background-position: center;
+    margin: 0 auto;
+    opacity: 0.8;
+}
+
+#ID{
+	margin-bottom: 25px;
+}
+
+#login{
+	padding: 10px 30px 10px 30px;
+	margin-top: 15px;
+}

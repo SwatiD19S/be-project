@@ -1,0 +1,17 @@
+#background{
+    background-image: url("background/img2.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto ; 
+    height: 100vh;
+}
+
+#heading{
+	font-family: 'Indie Flower', cursive;
+	margin: 30vh auto;
+	color: #000000;
+}
+
+#button{
+	text-align: center;
+}
